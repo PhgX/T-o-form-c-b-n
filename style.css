@@ -1,0 +1,21 @@
+@font-face{
+  src: url(font/Tahoma Regular font.ttf);
+  font-family: Tamaho;
+  src: url(font/LucidaGrande.ttf);
+  font-family: LucidaGrande;
+  src: url(font/Lucida Sans Unicode.ttf);
+  font-family: Lucida Sans Unicode;
+  src: url(font/Hanoienne.otf);
+  font-family: Hanoienne;
+}
+
+h1 {
+      text-align: center;
+    }
+h4 {
+      font-size: 20px; font-weight: bold;
+}
+form {
+      font-family: sans-serif;
+    }
+ 
